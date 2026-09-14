@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "JujuBot", // required by Discord API, not shown in the client
+        name: "(˶˃ ᵕ ˂˶) .ᐟ.ᐟ", // required by Discord API, not shown in the client
         state: "testing!!! mwehehe",     // this is what people actually see
         type: 2,               // Custom
       },
